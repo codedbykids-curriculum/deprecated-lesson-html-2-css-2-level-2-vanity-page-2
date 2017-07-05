@@ -1,3 +1,5 @@
+![state: deprecated](https://img.shields.io/badge/status-deprecated-red.svg)
+
 # Level-2 / Lesson 2 / Project 2: html 2 and css 2
 
 ### Skills for this project (please check off the skills the student covered during this project):
